@@ -9,3 +9,7 @@ Similar in 3b, I first downloaded the dental files and then merged them together
 Then I replaced the values from the columns to make them easier to read.
 
 in 3c, I counted the total case numbers in the demographic and dental files. 
+
+To check the file, you can find it here.
+
+# ssss
