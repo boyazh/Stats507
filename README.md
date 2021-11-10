@@ -12,6 +12,6 @@
 
 * 3c, I counted the total case numbers in the demographic and dental files. 
 
-# To check the file, you can find it [here](https://github.com/boyazh/Stats507/blob/main/PS2%20Q3%20repo.ipynb).    
+To check the file, you can find it [here](https://github.com/boyazh/Stats507/blob/main/PS2%20Q3%20repo.ipynb).    
 
 
